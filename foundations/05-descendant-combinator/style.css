@@ -1,0 +1,24 @@
+/* This is the solution for class descendant combinator*/
+
+/* .container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/*This is the solution for type descendant combinator 
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/*This is the solution for class and type descendant combinator*/
+.container p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
